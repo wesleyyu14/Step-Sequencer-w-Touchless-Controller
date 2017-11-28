@@ -1,3 +1,7 @@
+//Multichannel step sequencer
+//This includes a rotary encoder and hall effect sensor demo that I'll be using for my final project. 
+//wooo
+
 #include <Encoder.h>
 
 int tempo = 0;
